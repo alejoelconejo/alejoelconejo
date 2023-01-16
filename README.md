@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejoelconejo
 - 👀 I’m interested in *Frontend Web Development*
-- 🌱 I’m currently improving my skills at **React**, **TypeScript** & **JavaScript**
+- 🌱 I’m currently improving my skills at **React**, **Next.js**, **TypeScript** & **JavaScript**
 - 💞️ I’m *open to work*
 
 <!---
